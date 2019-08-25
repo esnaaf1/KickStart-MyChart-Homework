@@ -1,2 +1,2 @@
 # KickStart-MyChart-Homework
-This is my first assignment for Data Analytics &amp; Visualization Cohort 5
+Initial upload for Homnework #1, KickStart my chart
